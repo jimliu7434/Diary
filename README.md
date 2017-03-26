@@ -1,1 +1,2 @@
-# Diary
+# Diary about web technoligy
+ 
